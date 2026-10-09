@@ -1,0 +1,14 @@
+name: lab6_android
+description: Homework and Lab 6 - User Registration and Form Validation
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
